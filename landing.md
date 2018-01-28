@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: ハピネスシー試験室について
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'ハピネスシーのECスペシャリストの考えたECサイトの構築、および、ドローンのDIYについて紹介します。<br/>コミッターの参加、又は、成果物にご興味のある方はお気軽く問い合わせください。'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
