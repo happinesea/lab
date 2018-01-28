@@ -1,0 +1,36 @@
+# site settings
+title: happinesea lab
+subtitle: ハピネスシー試験室
+email: dev@happinesea.com
+description: ハピネスシーの開発者より、EC(Eコマース)サイトの構築、ドローンのDIYアイディアのコンテンツを掲載します。
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://lab.happinesea.com" # the base hostname & protocol for your site
+author:
+street_address: 4-33-13 Maharanishi
+city: Chiba
+state: Funabashi
+zip_code: 274-0825
+country: Japan
+phone: +81-50-5275-5456
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+#500px_url:
+facebook_url: https://www.facebook.com/happinesea.jp/
+github_url: https://github.com/happinesea
+#gitlab_url: 
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url: https://instagram.com
+#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#pinterest_url:
+#slack_url:
+twitter_url: https://twitter.com/happinesea
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
