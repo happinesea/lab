@@ -29,6 +29,8 @@ github_url: https://github.com/happinesea
 #slack_url:
 twitter_url: https://twitter.com/happinesea
 
+google_analytics: UA-60318135-1
+
 # build settings
 markdown: kramdown
 
