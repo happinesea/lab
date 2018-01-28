@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: すべての投稿
+landing-title: 'すべての投稿'
 nav-menu: true
 description: null
 image: null
