@@ -15,67 +15,69 @@ nav-menu: true
 		<header class="major">
 			<h2>ハピネスシーなりの考えがあります。</h2>
 		</header>
-		<p>ハピネスシー自社のサイト構築や、大手ECサイトの開発に携わったことで、こういったものがあったら便利だなと思うことはよくあります。<br/>ECサイト運営に便利なツールからやっていきたいと思います。</p>
+		<p>ハピネスシー自社のサイト運営や、大手ECサイトの開発に携わったことで、こういったものがあったら便利だなと思うことはよくあります。<br/>ECサイト運営に便利なツールからやっていきたいと思います。</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>ECサイトの構築・運営について</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>プロモーションにお金をかければそれなりにアクセスが増えるでしょうが、必ず売上、又は、利益の成長に繋がることは限りません。<br/>ハピネスシーの主張するのは、プロモーションをやらなくても集客する方法、又は、プロモーションをやる場合、どうすれば有効にできるかの方法を紹介します。</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>ドローンのDIY</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>配達専用ドローンのDIYを中心に論じます。<br/>楽天でも、Amazonでも積極的にやっていますが、もちろん、我々はハピネスシー流のドローンを考えています。<br/>日本の物流にふさわしい機種を研究して製品化にしたいとの野望はあります。</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<!--
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>メーカー、および、業者のへ</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	-->
 </section>
 
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>オーナーからの一言</h2>
 		</header>
 		<p>初めまして、ハピネスシーのオーナー、郝(ハオ)と申します。</p>
 		<ul class="actions">
