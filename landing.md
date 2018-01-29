@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>ドローンのDIY</h3>
 				</header>
-				<p>配達専用ドローンのDIYを中心に論じます。<br/>楽天でも、Amazonでも積極的にやっていますが、もちろん、我々はハピネスシー流のドローンを考えています。<br/>日本の物流にふさわしい機種を研究して製品化にしたいとの野望はあります。</p>
+				<p>こちらのカテゴリでは、ドローンをやる機材、専門知識の紹介から、配達専用ドローンのDIYを中心に議論します。<br/>産業向け、配達専用のドローンについて、日本では楽天や、Amazonなどの大手でも積極的にドローンの開発をやっているようですが、我々はハピネスシー流のドローンを考えています。<br/>日本の物流にふさわしい機種を研究して製品化にしたいとの野望はあります。</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
@@ -77,11 +77,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>オーナーからの一言</h2>
+			<h2>ハピネスシーの組織について</h2>
 		</header>
-		<p>初めまして、ハピネスシーのオーナー、郝(ハオ)と申します。</p>
+		<p>ハピネスシーの自己紹介をさせていただきます。</p>
 		<ul class="actions">
-			<li><a href="about_happinesea.html" class="button next">Get Started</a></li>
+			<li><a href="about_happinesea.html" class="button">Learn more</a></li>
 		</ul>
 	</div>
 </section>
