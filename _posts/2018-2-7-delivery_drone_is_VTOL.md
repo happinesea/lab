@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 配送用ドローンの一番理想な形はVTOLかもしれない？
+title: 配達用ドローンの一番理想な形はVTOLかもしれない？
 description: VTOL(Vertical Take-Off and Landing)垂直離着陸の略です。ハピネスシーもVTOLドローンにチャレンジしたいと思います。
 tags: drone happinsea
 image: assets/images/pic04.jpg
