@@ -3,9 +3,9 @@ title: happinesea lab
 subtitle: ハピネスシー試験室
 email: dev@happinesea.com
 description: ハピネスシーの開発者より、EC(Eコマース)サイトの構築、ドローンのDIYアイディアのコンテンツを掲載します。
-#baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "http://lab.happinesea.com" # the subpath of your site, e.g. /blog
 url: "http://lab.happinesea.com" # the base hostname & protocol for your site
-author:
+author: happinesea developers
 street_address: 4-33-13 Maharanishi
 city: Chiba
 state: Funabashi
