@@ -1,10 +1,12 @@
 ---
 layout: home
-title: Home
-landing-title: 'ハピネスシーの試験室へようこそ。'
+title: Welcom to happinesea lab ハピネスシーの試験室へようこそ
+landing-title: 'ハピネスシーの試験室へようこそ'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+happinesea policy：<br>
+モノやサービスを通じて収益を上げるのではなく、<br>
+顧客と豊かさを共感して収益に結びつけることです。
