@@ -1,6 +1,6 @@
 ---
 title: rws-libのプロジェクトページです。
-layout: landing
+layout: post
 description: '楽天ペイAPI(RakutenPayOrderAPI)を含めて、RWS(RMS WEB SERVICE)の通信データをGroovy/Javaから扱いしやすいためのライブラリーです'
 image: assets/images/pic07.jpg
 nav-menu: true
