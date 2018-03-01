@@ -10,8 +10,9 @@ nav-menu: true
 <ul>
 <li>0.01
   <ol>
-    <li>基本となるBEAN、列挙クラス定義</li>
-    <li>商品タイトルの一括変換</li>
+    <li>基本となる楽天ペイAPIのBEAN、列挙クラス定義</li>
+    <li>APIクライアント基盤</li>
+    <li>商品タイトルの一括変更</li>
   </ol>
 </li>
 </ul>
