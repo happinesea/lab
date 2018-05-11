@@ -36,12 +36,14 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 
 最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>に登録しますので、<br>
 Gradleの場合、以下に設定すればよいです。
-<q>repositories {
+<pre>
+ repositories {
     mavenCentral()
 }
 dependencies {
     compile 'com.happinesea:rws-lib:&lt;バージョン番号&gt;'
-}</q>
+}
+</pre>
 
 Gradle以外の設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>をご参考してください。
 
