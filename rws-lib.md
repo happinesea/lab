@@ -24,8 +24,8 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
   <ol>
     <li>RMS web API、Wowma APIを特化したXMLパーサーフレームワーク</li>
     <li>RMS web APIを特化したJSONパーサーフレームワーク</li>
-    <li>RMS web API、Wowma APIを特化したAPI通信フレームワーク/li>
-    <li>RMS商品マスタのCSVファイル出力フレームワーク/li>
+    <li>RMS web API、Wowma APIを特化したAPI通信フレームワーク</li>
+    <li>RMS商品マスタのCSVファイル出力フレームワーク</li>
     <li>商品タイトルの一括変更ためのライブラリの用意</li>
   </ol>
 </li>
@@ -35,7 +35,15 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 ## Installation
 
 最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>に登録しますので、<br>
-設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>をご参考してください。
+Gradleの場合、以下に設定すればよいです。
+<q>repositories {
+    mavenCentral()
+}
+dependencies {
+    compile 'com.happinesea:rws-lib:&lt;バージョン番号&gt;'
+}</q>
+
+Gradle以外の設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>をご参考してください。
 
 
 ## Documentation
