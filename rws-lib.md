@@ -18,6 +18,7 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 こちらに対して支払いなど必要ないが、かわりにバグの報告だけ、ご協力していただければと思います。
 
 ## Feature
+
 <ul>
 <li>0.0.4
   <ol>
@@ -30,8 +31,11 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 </li>
 </ul>
 
+
 ## Installation
+
 最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>に登録しますので、Gradleの場合、以下のように依存関係を設定すればよいです。<br>
+
 <pre>
 repositories {
     mavenCentral()
@@ -42,6 +46,7 @@ dependencies {
 </pre>
 
 Gradle以外ビルドフレームワークの場合、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>をご参考してください。
+
 
 ## Documentation
 
