@@ -18,12 +18,27 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 こちらに対して支払いなど必要ないが、かわりにバグの報告だけ、ご協力していただければと思います。
 
 ## Feature
+
 <ul>
-<li>0.01
-  <ol>
-    <li>基本となる楽天ペイAPIのBEAN、列挙クラス定義</li>
-    <li>APIクライアント基盤</li>
-    <li>商品タイトルの一括変更</li>
+<li>0.0.4
+  <ol>
+    <li>RMS web API、Wowma APIを特化したXMLパーサーフレームワーク</li>
+    <li>RMS web APIを特化したJSONパーサーフレームワーク</li>
+    <li>RMS web API、Wowma APIを特化したAPI通信フレームワーク</li>
+    <li>RMS商品マスタのCSVファイル出力フレームワーク</li>
+    <li>商品タイトルの一括変更ためのライブラリの用意</li>
   </ol>
 </li>
 </ul>
+
+
+## Installation
+
+最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg" border="0"></a>に登録しますので、<br>
+設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg" border="0"></a>をご参考してください。
+
+
+## Documentation
+
+<a href="http://lab.happinesea.com/docs/rws-lib/0.0.3/groovydoc/" target="_blank">Groovy API docs</a><br>
+<a href="https://github.com/happinesea/rws-lib-tutorial" target="_blank">Guides and Tutorials</a>(作成中)
