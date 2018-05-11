@@ -50,5 +50,5 @@ Gradle以外ビルドフレームワークの場合、<a href="https://maven-bad
 
 ## Documentation
 
-[Groovy docs](http://lab.happinesea.com/docs/rws-lib/0.0.3/groovydoc/)<br>
-[Guides and Tutorials](https://github.com/happinesea/rws-lib-tutorial)(作成中)
+<a href="http://lab.happinesea.com/docs/rws-lib/0.0.3/groovydoc/" target="_blank">Groovy API docs</a><br>
+<a href="https://github.com/happinesea/rws-lib-tutorial" target="_blank">Guides and Tutorials</a>(作成中)
