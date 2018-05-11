@@ -40,5 +40,5 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 
 ## Documentation
 
-<a href="http://lab.happinesea.com/docs/rws-lib/0.0.3/groovydoc/" target="_blank">Groovy API docs</a><br>
+<a href="http://lab.happinesea.com/docs/rws-lib/0.0.4/groovydoc/" target="_blank">Groovy API docs</a><br>
 <a href="https://github.com/happinesea/rws-lib-tutorial" target="_blank">Guides and Tutorials</a>(作成中)
