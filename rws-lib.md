@@ -34,18 +34,8 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 
 ## Installation
 
-最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>に登録しますので、<br>
-Gradleの場合、以下に設定すればよいです。<br>
-<pre><br>
-repositories {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;mavenCentral()<br>
-}<br>
-dependencies {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;compile 'com.happinesea:rws-lib:&lt;バージョン番号&gt;'<br>
-}<br>
-</pre>
-
-Gradle以外の設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg"></a>をご参考してください。
+最新のリリースモジュールは<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg" border="0"></a>に登録しますので、<br>
+設定方法について、<a href="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib" target="_blank"><img src="https://maven-badges.herokuapp.com/maven-central/com.happinesea/rws-lib/badge.svg" border="0"></a>をご参考してください。
 
 
 ## Documentation
