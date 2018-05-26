@@ -47,3 +47,8 @@ https://github.com/happinesea/rws-lib-tutorial
  gradlew launch -Pmain=com.happinesea.TutorialChangeItemNameBatch
 </pre>
 <br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/4.png" width="500px">
+
+
+商品名称を一括変更するチュートリアルの説明はこれで以上となります。<br>
+なるべく分かりやすく説明しようとしていますが、gradleなど経験のない一般の方には、中々ハードルが高いかもしれません。<br>
+ご不明や、質問などありましたら、下のコメント欄に聞いてください。<br>
