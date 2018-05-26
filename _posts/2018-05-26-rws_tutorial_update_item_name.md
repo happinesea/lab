@@ -24,19 +24,19 @@ https://github.com/happinesea/rws-lib-tutorial
 解凍して使ってください。
 
 + ダウンロードできたら、適当なところに解凍して、実際のディレクトリに移動してください。
-<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/1.png" width="200px">
+<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/1.png" width="500px">
 
 + テキストエディタで、以下のファイルに「<license key>」と「<service secret>」を、実際のRMSのWEB APIの設定に書き換えてください。<br>
 勿論、テスト店舗を持っている場合、先にテスト店舗で動作確認しておくのがベストです。<br>
 「src/main/groovy/com/happinesea/TutorialChangeItemNameBatch.groovy」<br>
-<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/2.png" width="200px">
+<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/2.png" width="500px">
 
 + 続いて、置換用文字列の編集をします。<br>
 25行当たり、newStrとregexの変数に、新たに置換される文字列と、置換する箇所を指定します。<br>
 尚、デフォルトでは、誤って変えてしまわないように、逆に設定しています。<br>
 例えば、商品名の先頭に、「[最大2000円OFFクーポン]」をつけたい場合、以下画像のように、書き換えてください。<br>
 イベントが終了して、商品名を戻したい場合、ソースコードをもとに戻して、もう一回実行すればよいです。
-<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/3.png" width="200px">
+<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/3.png" width="500px">
 
 + 準備作業の最後、商品のURLを指定してください。
 
@@ -46,4 +46,4 @@ https://github.com/happinesea/rws-lib-tutorial
 <pre>
  gradlew launch -Pmain=com.happinesea.TutorialChangeItemNameBatch
 </pre>
-<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/4.png" width="200px">
+<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/4.png" width="500px">
