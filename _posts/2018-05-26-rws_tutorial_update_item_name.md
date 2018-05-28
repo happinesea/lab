@@ -22,14 +22,14 @@ https://github.com/happinesea/rws-lib-tutorial
 
 勿論、gitでも落とせますが、よくわからない方は、直接zipファイルをダウンロードして、<br>
 解凍して使ってください。
-
-+ ダウンロードできたら、適当なところに解凍して、実際のディレクトリに移動してください。
 <br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/1.png" width="500px">
 
-+ テキストエディタで、以下のファイルに「<license key>」と「<service secret>」を、実際のRMSのWEB APIの設定に書き換えてください。<br>
++ ダウンロードできたら、適当なところに解凍して、実際のディレクトリに移動してください。
+<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/2.png" width="500px">
+
++ テキストエディタで、以下のファイルに「license key」と「service secret」を、実際のRMSのWEB APIの設定に書き換えてください。<br>
 勿論、テスト店舗を持っている場合、先にテスト店舗で動作確認しておくのがベストです。<br>
 「src/main/groovy/com/happinesea/TutorialChangeItemNameBatch.groovy」<br>
-<br><img src="http://lab.happinesea.com/assets/images/rakuten-item-name-change/2.png" width="500px">
 
 + 続いて、置換用文字列の編集をします。<br>
 25行当たり、newStrとregexの変数に、新たに置換される文字列と、置換する箇所を指定します。<br>
