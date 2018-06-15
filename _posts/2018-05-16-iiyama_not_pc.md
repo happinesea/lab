@@ -2,7 +2,7 @@
 layout: post
 title: iiyamaのSENSEノートPCを使った感想
 description: iiyamaのノードPCを勝手、半年を絶ったところで修理に出しました。この半年の間、使った感想をまとめます。やはり、いいところもよくないことはあるといっても、半年で修理に出さざるを得ないところはがっかりします。
-tags: 
+tags: pc
 image: assets/images/05251214_59264c16be791.jpg
 ---
 
