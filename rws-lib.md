@@ -20,6 +20,10 @@ RWSのAPI連携ツールを開発する方は多くいます。<br>
 ## Feature
 
 <ul>
+<li>0.0.6
+  <ol>
+   <li>商品マスタ、CSV出力対応</li>
+ </ol>
 <li>0.0.4
   <ol>
     <li>RMS web API、Wowma APIを特化したXMLパーサーフレームワーク</li>
