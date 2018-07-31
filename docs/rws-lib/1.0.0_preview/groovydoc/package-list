@@ -1,0 +1,11 @@
+com.happinesea
+com.happinesea.ec.rws.lib
+com.happinesea.ec.rws.lib.bean
+com.happinesea.ec.rws.lib.bean.enumerated
+com.happinesea.ec.rws.lib.bean.form
+com.happinesea.ec.rws.lib.bean.form.rakuten
+com.happinesea.ec.rws.lib.bean.rakuten
+com.happinesea.ec.rws.lib.bean.rakuten.enumerated
+com.happinesea.ec.rws.lib.bean.rakuten.node
+com.happinesea.ec.rws.lib.rakuten
+com.happinesea.ec.rws.lib.util
